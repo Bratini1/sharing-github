@@ -9,3 +9,6 @@ This is Task 1 "PREDICTION USING SUPERVISED ML"  of The Spark Foundation under t
 #Languages Used
 
 Python 3
+
+
+Dataset: http://bit.ly/w-data used 
